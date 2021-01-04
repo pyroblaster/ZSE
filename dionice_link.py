@@ -1,0 +1,10 @@
+valamar = "https://zse.hr/hr/papir/310?isin=HRRIVPRA0000"
+zaba = "https://zse.hr/hr/papir/310?isin=HRZABARA0009"
+pbz = "https://zse.hr/hr/papir/310?isin=HRPBZ0RA0004"
+adris = "https://zse.hr/hr/papir/310?isin=HRADRSPA0009"
+atlantic = "https://zse.hr/hr/papir/310?isin=HRATGRRA0003"
+podravka = "https://zse.hr/hr/papir/310?isin=HRPODRRA0004"
+ht = "https://zse.hr/hr/papir/310?isin=HRHT00RA0005"
+dalekovod = "https://zse.hr/hr/papir/310?isin=HRDLKVRA0006"
+varteks = "https://zse.hr/hr/papir/310?isin=HRVARTR10005"
+lista_dionica = [valamar, zaba, pbz, adris, atlantic, podravka, ht, dalekovod, varteks]
